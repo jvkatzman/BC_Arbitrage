@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # bitcoin-arbitrage - opportunity detector and automated trading
 
 It gets order books from supported exchanges and calculate arbitrage
@@ -82,3 +83,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 BC_Arbitrage
 ============
 >>>>>>> branch 'master' of https://github.com/jvkatzman/BC_Arbitrage.git
+=======
+BC_Arbitrage
+============
+>>>>>>> 1b67dbf5cacb0bfed94f1226f58cc2e9f68118e4
